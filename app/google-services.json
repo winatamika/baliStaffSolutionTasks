@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "166048779066",
+    "project_id": "bsstasks2",
+    "storage_bucket": "bsstasks2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166048779066:android:faf7077ea28183f9131e03",
+        "android_client_info": {
+          "package_name": "com.example.bsstasks2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166048779066-0b2ti6gjr3r1fnejgo2njui4qugc62j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAygzks-4FU7jsYhBagZyGxquPpAd3Ywj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166048779066-0b2ti6gjr3r1fnejgo2njui4qugc62j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
